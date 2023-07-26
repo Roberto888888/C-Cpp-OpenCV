@@ -10,6 +10,11 @@ In my case, for some reason I wasn't able to set it up with Visual Studio. I use
 - Exercise 3 - Image Filters.
 - Exercise 4 - Contours.
 
+---
+NOTE:
+This code is pretty old and not optimized. I don't have OpenCV installed in my machine at the moment so I can't improve it.
+
+---
 NOTE:
 In Python it's much easier to use OpenCV (you just need to use pip or conda) but I find the C++ version of OpenCV to be much better. Also, there aren't many good sources out there to study from if you choose Python whereas for C and C++ there are 2 excellent and exhaustive books by Adrian Kaehler and Gary Bradsky.
 
