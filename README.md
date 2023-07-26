@@ -11,6 +11,6 @@ In my case, for some reason I wasn't able to set it up with Visual Studio. I use
 - Exercise 4 - Contours.
 
 NOTE:
-In Python is much easier to use OpenCV (you just need to use pip or conda) but I find the C++ version of OpenCV to be much better. Also, there aren't many good sources out there to study from if you choose Python whereas for C and C++ there are 2 excellent and exhaustive books by Adrian Kaehler and Gary Bradsky.
+In Python it's much easier to use OpenCV (you just need to use pip or conda) but I find the C++ version of OpenCV to be much better. Also, there aren't many good sources out there to study from if you choose Python whereas for C and C++ there are 2 excellent and exhaustive books by Adrian Kaehler and Gary Bradsky.
 
 The C version of OpenCV is deprecated I think but the online documentation is still available. Some functions don't work perfectly or as easily as in C++ (for this reason I had to switch to C++ a few times though in my course I was expected to use C).
